@@ -1,18 +1,15 @@
-# 항해 리액트 심화주차 팀 프로젝트
+# 항해 리액트 심화주차 팀PJ 조각기능 구현
+
+- 기본 diary 데이터 CRUD
+- 상세페이지 이동
+- 이동 후, 상세 diary 아래 댓글기능 추가 
+<br>
+<br>
 <br>
 
-# 개발기간, 팀원
-- 2022년 12월 9일 - 12월 15일 <br>
-- 정소영, 허정은, 양진규 <br>
-<br>
+# gitgub STUDY & TEST
 
-# 구현기능
-<br>
+### 22.12.13 github test<br>
 
-
-# 와이어프레임
-![image](https://user-images.githubusercontent.com/85012454/206633020-e1c09624-3a15-4d64-afda-9025dbb7a3da.png)
-
-tnwjdgdkdkd 
-<br>
-
+- Q. git pull origin 하고 수정사항이 있으면 다시 add와 commit의 단계를 거치나?<br>
+> 헷갈림
