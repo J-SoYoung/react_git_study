@@ -1,0 +1,32 @@
+{
+  "diary" : [
+    {
+      "id": "0000",
+      "title": "test입니다",
+      "date": "2022-12-10",
+      "content": "막힐 때마다 우울함니다",
+      "emotion": 8, 
+      "is_edit": false
+    },
+    {
+      "id": "1111",
+      "title": "리액트",
+      "date": "2022-12-10",
+      "content": "리액트 공부란...쩜쩜쩜",
+      "emotion": 4, 
+      "is_edit": false
+    }
+  ],
+  "memo" : [
+    {
+      "memo" : "오늘의 일기 메모11",
+      "memo_id" : 1,
+      "diary_id" : "0000"
+    },
+    {
+      "memo" : "오늘의 일기 메모22",
+      "memo_id" : 2,
+      "diary_id" : "1111"
+    }
+  ]
+}
